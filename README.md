@@ -3,6 +3,7 @@
 This project is a straightforward tabs component created using HTML, CSS, and JavaScript. It allows users to switch between different sections of content by clicking on corresponding tabs.
 ## Project URL 
 https://github.com/AdelAmoura/SNAKE.git
+https://roadmap.sh/projects/simple-tabs
 
 ## Table of Contents
 
